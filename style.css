@@ -89,10 +89,16 @@ h1{
   padding: 15px;
   background-color: rgb(255, 183, 183);
 }
-.doate3{
-    margin-top: 40px;
-  font-size: 20px;
-  margin-bottom: 10px;
+.donate3{
+  height: 20px;
+  width: 300px;
+  margin-top: 15px;
+  padding-left: 20px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: whitesmoke;
+  border: 1px solid whitesmoke;
+  margin-left: 2%; 
 }
 #border {
     width: 65%;
