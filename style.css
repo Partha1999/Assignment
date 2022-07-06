@@ -30,3 +30,28 @@ h1{
     text-align: center;
     width: 100%;
 }
+.amount-example{
+    display: flex;
+    padding: 16px 32px;
+}
+.button-amount{
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 16px 32px;
+    
+    
+}
+.five-hundred{
+    color: blue;
+    background-color: wheat;
+    border:2px solid yellowgreen;
+}
+.footer-css{
+    background-image: linear-gradient(black);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white ;
+}
